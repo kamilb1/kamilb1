@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamilb1
-- 👀 I’m interested in data science, mathematical modelling and scientific computing.
+- 👀 I’m interested in data science, mathematical modelling, quantitative finance and scientific computing.
 - 🌱 I’m currently studying Mathematics at Imperial College.
 
 <!---
